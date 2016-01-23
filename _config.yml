@@ -1,0 +1,28 @@
+name: Merry-Hill Golf Club
+favicon: null
+layout_spectrum: 0.954072238644585
+typography_spectrum: 0.7949766097590327
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.7099066060036421
+  lightness: 0.22257936000823975
+  saturation: 0.12265237816609442
+  rhythmicContrast: 0.2481912444345653
+purpose: []
